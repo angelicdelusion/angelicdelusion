@@ -12,4 +12,4 @@
 <img width="800" height="150" alt="IMG_0464" src="https://github.com/user-attachments/assets/d7035dd6-c4b8-46c2-ad6d-75b894f21a0a" />
 
 
-<p align="center">![](https://komarev.com/ghpvc/?username=angelicdelusions&label=❔&color=4b3c49)</p>
+<p align="center">☁️
